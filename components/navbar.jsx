@@ -363,7 +363,7 @@ export default function Navbar({
               </span>
             </div>
             <span className='text-gray-300 font-IBMPlexLoop text-xs text-center'>
-              {'Designed by Trisawan, Created by Patcharapon & Adjustment by Supawattaka and Chaidit'}
+              {'Designed by Trisawan, Created by Patcharapon & Adjusted by Supawattaka and Chaidit'}
             </span>
           </div>
           <div className='grow' />
